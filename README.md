@@ -1,3 +1,14 @@
+## Assessment description
+![Description 1](description1.png)
+![Description 2](description1.png)
+
+
+Screenshots below were given.
+![First screenshot of assessment](Screenshot1.png)
+![Second screenshot of assessment](Screenshot2.png)
+![Third screenshot of assessment](Screenshot3.png)
+![Fourth screenshot of assessment](Screenshot4.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
